@@ -1,6 +1,6 @@
 always_load("singularity")
 
-local img_name      = 'data_arts_latest-2022-10-17-6374c48f5187.simg'
+local img_name      = 'data_arts_latest-2022-10-18-432d017ecdee.simg'
 local img_directory = '/hpc/applications/containers/'
 local img_path      = pathJoin(img_directory, img_name)
 
