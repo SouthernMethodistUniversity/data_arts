@@ -15,5 +15,6 @@ function build_command(cmd)
 end
 
 build_command('python3')
+build_command('jupyter')
 build_command('jupyter-lab')
 
