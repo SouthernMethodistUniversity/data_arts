@@ -1,4 +1,4 @@
-always_load("singularity")
+load("singularity", "sas/9.4.update6")
 
 local img_name      = 'data_arts_latest-2022-10-18-ed1c9abbc1e4.simg'
 local img_directory = '/hpc/applications/containers/'
